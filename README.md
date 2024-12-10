@@ -52,7 +52,7 @@ Luego ejecuta el siguiente comando, que genera el contenedor y el puerto.
 
 ```bash
 
-docker run -d -p 3000:3000 --name javascript erickjrm/programjavascript2:latest
+docker run -d -p 5000:5000 --name apirest erickjrm/programapi:latest
 ```
 
 - **Paso #4**
