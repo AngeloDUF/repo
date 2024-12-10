@@ -66,6 +66,6 @@ Abre Docker Desktop para ver si la imagen se creó correctamente y envíala a ej
 siguiente url en tu navegador web:
 
 ```bash
-http://localhost:500
+http://localhost:5000
 ```
 
