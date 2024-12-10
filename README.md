@@ -24,7 +24,7 @@ Es un programa sencillo para mostrar cómo funciona un programa en el lenguaje d
 - **Docker hub** (si quieres clonar y usar el proyecto)
   
   ```bash
-  https://www.docker.com/products/docker-desktop/
+  https://hub.docker.com/layers/erickjrm/programapi/latest/images/sha256-0dc6b759d09c34f842d583019cd2df517a56ee69cc7db1d50958ea5919f3cfb3?context=repo
   ```
 
 ## Intruciciones para ejecutar el proyecto
